@@ -1,2 +1,2 @@
 # golang
-Get started with golfing
+Get started with golang
